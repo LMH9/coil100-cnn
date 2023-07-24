@@ -9,3 +9,6 @@ Diverse Train/Val/Test Splits ausprobiert.
 * Dropout
 * Early Stopping
 * Modell Checkpoint
+
+Überarbeitete Version des untenstehenden Kaeggle Notebooks:
+Source: https://www.kaggle.com/code/criscastromaya/cnn-for-image-classification-in-coil-100-dataset
