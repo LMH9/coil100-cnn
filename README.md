@@ -3,7 +3,8 @@ CNN for the COIL100-Dataset
 
 Uni-Projekt
 Diverse Train/Val/Test Splits ausprobiert.
-Methoden um Overfitting zu vermeiden:
+
+### Methoden um Overfitting zu vermeiden:
 * Img Augementation
 * Dropout
 * Early Stopping
