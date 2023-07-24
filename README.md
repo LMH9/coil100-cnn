@@ -1,7 +1,7 @@
 # coil100-cnn
-CNN for the COIL100-Dataset
+CNN für den COIL100-Datensatz
 
-Uni-Projekt
+Projekt im Rahmen einer Uni-Abgabe.
 Diverse Train/Val/Test Splits ausprobiert.
 
 ### Methoden um Overfitting zu vermeiden:
